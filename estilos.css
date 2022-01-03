@@ -1,0 +1,86 @@
+.titulo{
+    background: rgba(0, 0, 0, .3);
+    color: #fff;
+    border-radius: 5px;
+    margin: 5px 5px;
+    padding: 5px 5px;
+    width: 100%;
+    text-align: center;
+}
+.todo{
+ /**   background-image: url(img/Wallpapers.jpg);
+    background-position: center;
+    background-attachment: contain; 
+    background-size: 100vw 100vh;**/
+    background: rgb(165, 151, 151);
+    display: flex;
+    flex-flow: column nowrap;
+    height:1350px;
+}
+.container{
+    background: rgba(255, 255, 255, .2);
+    padding: 10px 10px;
+
+    
+}
+.logito{
+    align-self: flex-start;
+}
+
+.pegahoso{
+    padding: 10px 10px;
+    background: #000;
+    border-radius: 5px;
+    size: block;
+}
+
+.navegador{
+    padding: 10px 10px;
+    
+}
+.ahora{
+    background-color: rgba(69, 61, 177, 0.3);
+    border-radius: 3px;
+}
+
+.form-inline{
+    align-self: flex-end;
+}
+
+.form-inline{
+    align-self: flex-end;
+}
+.noseingles{
+    align-self: center;
+}
+#carouselExampleCaptions{
+
+    align-items: center;
+    padding: 10px 10px;
+    border-radius: 4px; 
+}
+.textos{
+    background: #fff;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    border-radius: 5px;
+}
+
+
+
+.card{
+    padding: 10px 10px;
+}
+.card-img-top{
+    border-radius: 5px;
+}
+.footer{
+    background: #000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px; 
+    border-radius: 4px;
+    margin: 10px 10px;
+    font-size: 20px;
+}
